@@ -1,27 +1,51 @@
+/* answer start */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* answer end */
+
 .box1 {
   height: 200px;
   background-image: url(img/box1.jpg);
-  background-repeat: no-repeat;
+  /*--- not exist
+  background-repeat: no-repeat; -----*/
   background-size: cover;
+  /* answer start */
+  background-position: center;
+  /* answer end */
 }
 
 .box2 {
   height: 200px;
   background-image: url(img/box2.jpg);
-  background-repeat: no-repeat;
+  /*--- not exist
+  background-repeat: no-repeat; -----*/
   background-size: cover;
+  /* answer start */
+  background-position: center;
+  /* answer end */
 }
 
 .box3 {
   height: 200px;
   background-image: url(img/box3.jpg);
-  background-repeat: no-repeat;
+  /*--- not exist
+  background-repeat: no-repeat; -----*/
   background-size: cover;
+  /* answer start */
+  background-position: center;
+  /* answer end */
 }
 
 .box4 {
   height: 200px;
   background-image: url(img/box4.jpg);
-  background-repeat: no-repeat;
+  /*--- not exist
+  background-repeat: no-repeat; -----*/
   background-size: cover;
+  /* answer start */
+  background-position: center;
+  /* answer end */
 }
